@@ -1,0 +1,283 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.user-profile-BEh {
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+
+  .header-JaD {
+    display: flex;
+    align-items: center;
+    border: solid 0.1rem #000000;
+    box-sizing: border-box;
+    padding: 2rem 5.5rem 1.9rem 8rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: #605757;
+    flex-shrink: 0;
+
+    .ocos-poT {
+      margin-right: 18.2rem;
+      font-size: 5rem;
+      font-style: italic;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #ffffff;
+      flex-shrink: 0;
+    }
+    .beranda-LG1 {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 18.7rem;
+      font-size: 1.5rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .products-4C1 {
+      margin-right: 17.2rem;
+      font-size: 1.5rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .about-us-CZ7 {
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 37.3rem;
+      font-size: 1.5rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #ffffff;
+    }
+    .user-wWh {
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-bottom: 0.1rem;
+      width: 2rem;
+      height: 2.25rem;
+    }
+  }
+  .group-qry {
+    padding: 3rem 41.8rem 1rem 41.8rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #605757;
+    flex-shrink: 0;
+    box-sizing: border-box;
+
+    .group-mkd {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-bottom: 3.6003rem;
+      width: 60.4rem;
+      height: 59.9997rem;
+      position: relative;
+      object-fit: contain;
+    }
+    .group-JkZ {
+      margin: 0rem 8.3rem 7.9rem 8.4rem;
+      width: calc(100% - 16.7rem);
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .username-EeD {
+        line-height: 1.2125;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 0.1rem 4.9rem 0rem;
+        font-size: 3rem;
+        font-weight: 400;
+      }
+      .name-xaD {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 10.7rem;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .e-mail-6RX {
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 0.1rem 4.9rem 0rem;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 1.2125;
+      }
+      .namegmailcom-1Hb {
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .group-LKs {
+      flex-shrink: 0;
+      font-size: 3rem;
+      border-radius: 2rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background-color: #f2f1ef;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      margin: 0rem 15.3rem 0rem 15.4rem;
+      height: 5.4rem;
+      font-weight: 400;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: calc(100% - 30.7rem);
+      color: #000000;
+      white-space: nowrap;
+    }
+  }
+  .footer-9HK {
+    border: solid 0.1rem #000000;
+    height: 49rem;
+    display: flex;
+    align-items: center;
+    background-color: #605757;
+    box-sizing: border-box;
+    padding: 10.2rem 20rem 14.1rem 17rem;
+    width: 100%;
+    flex-shrink: 0;
+
+    .auto-group-ajnu-sUD {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin: 3.7rem 47rem 7.7rem 0rem;
+      width: 20rem;
+      height: calc(100% - 11.4rem);
+
+      .ocos-nLH {
+        margin-bottom: 2.2rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        font-size: 5rem;
+        font-weight: 400;
+        font-style: italic;
+        color: #ffffff;
+        white-space: nowrap;
+      }
+      .auto-group-yabk-JpR {
+        width: 100%;
+        display: flex;
+        column-gap: 2.5rem;
+        align-items: center;
+        flex-shrink: 0;
+
+        .group-7-TBX {
+          width: 5rem;
+          height: 5rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .group-2-PL5 {
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 5rem;
+          height: 5rem;
+          object-fit: contain;
+        }
+        .group-3-8YZ {
+          width: 5rem;
+          height: 5rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .group-4-sm3 {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 100%;
+      align-items: flex-end;
+
+      .contact-us-dkD {
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 5.3rem;
+        font-size: 3rem;
+      }
+      .ocoscompanyid-a9f {
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 2.3rem;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #ffffff;
+      }
+      .jl-batu-besar-no-101-blok-c-hzy {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 2.3rem;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .item-62-812-3456-7890-cs3 {
+        line-height: 1.2125;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 3rem;
+        font-weight: 400;
+      }
+    }
+  }
+}

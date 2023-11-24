@@ -1,0 +1,523 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  min-width: 144rem;
+}.katalog-products-3A1 {
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.katalog-products-3A1 .header-ypM {
+  box-sizing: border-box;
+  padding: 2rem 5.5rem 1.9rem 8rem;
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .header-ypM .ocos-Vnh {
+  margin-right: 18.2rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .header-ypM .beranda-1FF {
+  margin-right: 18.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .header-ypM .products-jww {
+  margin-right: 17.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .header-ypM .about-us-HCm {
+  margin-right: 24.9936rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .header-ypM .heart-1eZ {
+  margin: 0rem 3.319rem 0.071rem 0rem;
+  min-width: 2.6129rem;
+  height: 2.279rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .header-ypM .shopping-cart-j4m {
+  margin: 0rem 3.625rem 0.225rem 0rem;
+  min-width: 2.75rem;
+  height: 2.625rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .header-ypM .user-3bF {
+  margin-bottom: 0.1rem;
+  min-width: 2rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR {
+  box-sizing: border-box;
+  padding: 5rem 0rem 0rem 0.1rem;
+  min-width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT {
+  margin: 0rem 20.3rem 13.6rem 0rem;
+  min-width: 105.8rem;
+  height: 117.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .kembali-QaD {
+  min-width: 17.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .group-1-v2m {
+  min-width: 50rem;
+  height: 43.4rem;
+  position: absolute;
+  left: 38rem;
+  top: 9.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .group-1-v2m .image-16-EZF {
+  margin-bottom: 2.0417rem;
+  min-width: 50rem;
+  height: 36.4583rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .group-1-v2m .facial-foam-by-sari-ayu-mJH {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .busa-pembersih-wajah-yang-mengandung-ekstrak-buah-langsat-ekstrak-bunga-hibiscus-vitamin-c-dan-provitamin-b5-memiliki-manfaat-membersihkan-secara-menyeluruh-semua-sisa-debu-kotoran-dan-minyak-berlebih-dalam-satu-langkah-mudah-kulit-terasa-lembut-segar-dan-terlihatlebihcerah-rasakan-manfaat-langsat-pada-rangkaian-bright-skin-putih-langsat-buah-langsat-mengandung-senyawa-flavonoid-fenolik-dan-polifenolik-serta-memiliki-kandungan-antioksidan-yang-tinggi-kandungan-ini-memiliki-manfaat-yang-baik-bagi-kulit-yaitu-dapat-menangkal-radikal-bebas-yang-berdampak-buruk-bagi-kulit-menjaga-kelembapan-kulit-serta-mencerahkankulit-J3K {
+  min-width: 89rem;
+  height: 42.5rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 66.8rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am {
+  min-width: 36.3419rem;
+  height: 4rem;
+  position: absolute;
+  left: 46rem;
+  top: 60.8rem;
+  display: flex;
+  align-items: center;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am .stars-TTw {
+  margin-right: 8.8581rem;
+  box-sizing: border-box;
+  padding: 0.333rem 0.333rem 0.497rem 0.333rem;
+  height: 100%;
+  display: flex;
+  column-gap: 1.6667rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am .stars-TTw .star-mUd {
+  min-width: 3.3333rem;
+  height: 3.17rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am .stars-TTw .star-JjT {
+  min-width: 3.3333rem;
+  height: 3.17rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am .stars-TTw .star-3ww {
+  min-width: 3.3333rem;
+  height: 3.17rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am .stars-TTw .star-oAR {
+  min-width: 3.3333rem;
+  height: 3.17rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am .stars-TTw .star-MSq {
+  min-width: 3.3333rem;
+  height: 3.17rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .auto-group-ywwz-8Am .heart-txZ {
+  margin-top: 0.038rem;
+  min-width: 3.4838rem;
+  height: 3.0386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .rp-20000-qN1 {
+  min-width: 19.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 53.2rem;
+  top: 54.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 100;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .group-L3s {
+  box-sizing: border-box;
+  padding: 0.525rem 23.625rem;
+  min-width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 38rem;
+  top: 112.4rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  border-radius: 3rem;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .body-UwT .group-L3s .shopping-cart-r2D {
+  min-width: 2.75rem;
+  height: 2.625rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH {
+  margin: 0rem 22.2rem 9rem 22.2rem;
+  min-width: calc(100% - 44.4rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .group-0-eim {
+  min-width: 25.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .group-0-eim .group-0-eim-sub-0 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .group-0-eim .group-0-eim-sub-1 
+
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .auto-group-azt9-Xg5 {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.5rem 19.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .auto-group-azt9-Xg5 .group-1-riM {
+  margin-right: 11rem;
+  min-width: 5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .auto-group-azt9-Xg5 .group-2-ikZ {
+  margin-right: 1rem;
+  min-width: 5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .auto-group-azt9-Xg5 .group-3-nVX {
+  margin-right: 1rem;
+  min-width: 5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .auto-group-azt9-Xg5 .group-3-Fe1 {
+  margin-right: 1rem;
+  min-width: 5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .auto-group-azt9-Xg5 .group-4-Kds {
+  margin-right: 11rem;
+  min-width: 5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .page-selection-LCH .auto-group-azt9-Xg5 .group-5-oZ3 {
+  min-width: 5rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ {
+  box-sizing: border-box;
+  padding: 10.2rem 20rem 14.1rem 17rem;
+  min-width: 100%;
+  height: 49rem;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .auto-group-eyau-QYq {
+  margin: 3.7rem 47rem 7.7rem 0rem;
+  min-width: 20rem;
+  height: calc(100% - 11.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .auto-group-eyau-QYq .ocos-XNZ {
+  margin-bottom: 2.2rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .auto-group-eyau-QYq .auto-group-n4uw-2aD {
+  min-width: 100%;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .auto-group-eyau-QYq .auto-group-n4uw-2aD .group-7-Nty {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .auto-group-eyau-QYq .auto-group-n4uw-2aD .group-2-8NM {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .auto-group-eyau-QYq .auto-group-n4uw-2aD .group-3-GzM {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .group-4-2Tj {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .group-4-2Tj .contact-us-nSu {
+  margin-bottom: 5.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .group-4-2Tj .ocoscompanyid-KBw {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .group-4-2Tj .jl-batu-besar-no-101-blok-c-eED {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.katalog-products-3A1 .auto-group-zcqz-xCR .footer-5WZ .group-4-2Tj .item-62-812-3456-7890-Ng1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

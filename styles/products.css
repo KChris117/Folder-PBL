@@ -1,0 +1,533 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  min-width: 144rem;
+}.products-NRf {
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.products-NRf .header-WGy {
+  box-sizing: border-box;
+  padding: 2rem 5.5rem 1.9rem 8rem;
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.products-NRf .header-WGy .ocos-ECy {
+  margin-right: 18.2rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .header-WGy .beranda-8ZF {
+  margin-right: 18.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .header-WGy .products-4ho {
+  margin-right: 17.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .header-WGy .about-us-bSq {
+  margin-right: 24.9936rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .header-WGy .heart-j3F {
+  margin: 0rem 3.319rem 0.071rem 0rem;
+  min-width: 2.6129rem;
+  height: 2.279rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-NRf .header-WGy .shopping-cart-STT {
+  margin: 0rem 3.625rem 0.225rem 0rem;
+  min-width: 2.75rem;
+  height: 2.625rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-NRf .header-WGy .user-A8Z {
+  margin-bottom: 0.1rem;
+  min-width: 2rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-NRf .body-1-4zd {
+  margin-bottom: 14.2rem;
+  box-sizing: border-box;
+  padding: 11.4rem 6.7rem 35.1rem 6.7rem;
+  min-width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-15-bg.png');
+  flex-shrink: 0;
+}
+.products-NRf .body-1-4zd .cari-produk-sesuai-keinginan-anda-C5F {
+  margin-bottom: 3.1rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-1-4zd .tentukan-produk-dengan-kualitas-terbaik-dari-mitra-yang-telah-terpercaya-7i1 {
+  max-width: 48.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 {
+  margin: 0rem 9rem 15.2rem 9rem;
+  min-width: calc(100% - 18rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .auto-group-uabs-tsB {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .auto-group-uabs-tsB .produk-kami-2yP {
+  margin: 0.8rem 80.4rem 0rem 0rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .auto-group-uabs-tsB .lihat-semua--A41 {
+  margin-bottom: 0.8rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR {
+  margin-bottom: 8rem;
+  min-width: 100%;
+  height: 50rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-1-EZf {
+  margin-right: 26rem;
+  min-width: 50rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-1-EZf .image-16-nbB {
+  margin-bottom: 2.0833rem;
+  min-width: 50rem;
+  height: 36.4583rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-1-EZf .skincare-by-sari-ayu-XHs {
+  margin-bottom: 3.15rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-1-EZf .group-Fjf {
+  margin-right: 5.6rem;
+  min-width: calc(100% - 5.6rem);
+  height: 5.2083rem;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-1-EZf .group-Fjf .rp-20000-bYd {
+  margin: 0.625rem 4.1rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-1-EZf .group-Fjf .group-7Wy {
+  min-width: 30rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-2-xnV {
+  min-width: 50rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-2-xnV .auto-group-9y6d-X4u {
+  box-sizing: border-box;
+  padding-bottom: 3.1917rem;
+  min-width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-2-xnV .auto-group-9y6d-X4u .image-17-G2V {
+  margin: 0rem 0rem 2.042rem 3.9rem;
+  min-width: 34.9099rem;
+  height: 36.4583rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-2-xnV .auto-group-9y6d-X4u .nail-polish-kutek-by-maybelline-ZnH {
+  margin-right: 11.5rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-2-xnV .group-61X {
+  min-width: 100%;
+  height: 5.2083rem;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-2-xnV .group-61X .rp-32000-eHw {
+  margin: 0.625rem 5.816rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-1-HeR .group-2-xnV .group-61X .group-m7f {
+  min-width: 33.7838rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-2-c8H {
+  min-width: 100%;
+  height: 50rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-1-N7T {
+  margin-right: 26rem;
+  min-width: 50rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-1-N7T .image-18-uNH {
+  margin-bottom: 3.5rem;
+  min-width: 50rem;
+  height: 35rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-1-N7T .facial-foam-by-wardah-3jP {
+  margin-bottom: 3.1917rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-1-N7T .group-nBB {
+  margin-right: 5.6rem;
+  min-width: calc(100% - 5.6rem);
+  height: 5.2083rem;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-1-N7T .group-nBB .rp-27000-vYH {
+  margin: 0.625rem 4.4rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-1-N7T .group-nBB .group-FaZ {
+  min-width: 30rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-2-iU9 {
+  min-width: 50rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-2-iU9 .image-19-UTK {
+  margin-bottom: 3.5rem;
+  min-width: 50rem;
+  height: 35rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-2-iU9 .shampoo-keratin-smooth-by-tresemme-1TF {
+  margin-bottom: 3.1917rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-2-iU9 .group-8nm {
+  min-width: 100%;
+  height: 5.2083rem;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-2-iU9 .group-8nm .rp-100000-hL5 {
+  margin: 0.625rem 4.916rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .body-2-z17 .group-2-c8H .group-2-iU9 .group-8nm .group-QkH {
+  min-width: 33.7838rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX {
+  box-sizing: border-box;
+  padding: 10.2rem 20rem 14.1rem 17rem;
+  min-width: 100%;
+  height: 49rem;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .auto-group-5edf-mDT {
+  margin: 3.7rem 47rem 7.7rem 0rem;
+  width: 20rem;
+  height: calc(100% - 11.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .auto-group-5edf-mDT .ocos-gbK {
+  margin-bottom: 2.2rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .auto-group-5edf-mDT .auto-group-hylm-biH {
+  min-width: 100%;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .auto-group-5edf-mDT .auto-group-hylm-biH .group-7-YNd {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .auto-group-5edf-mDT .auto-group-hylm-biH .group-2-5tM {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .auto-group-5edf-mDT .auto-group-hylm-biH .group-3-EmF {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .group-4-mmB {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .group-4-mmB .contact-us-XkM {
+  margin-bottom: 5.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .group-4-mmB .ocoscompanyid-4EV {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .group-4-mmB .jl-batu-besar-no-101-blok-c-z89 {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-NRf .footer-euX .group-4-mmB .item-62-812-3456-7890-hoF {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

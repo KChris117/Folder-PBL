@@ -1,0 +1,328 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  min-width: 144rem;
+}.cart-SG1 {
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.cart-SG1 .header-ymj {
+  margin-bottom: 5rem;
+  box-sizing: border-box;
+  padding: 2rem 5.5rem 1.9rem 8rem;
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.cart-SG1 .header-ymj .ocos-Vk5 {
+  margin-right: 18.2rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .header-ymj .beranda-bYD {
+  margin-right: 18.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .header-ymj .products-8o3 {
+  margin-right: 17.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .header-ymj .about-us-fY5 {
+  margin-right: 24.9936rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .header-ymj .heart-Cnu {
+  margin: 0rem 3.319rem 0.071rem 0rem;
+  min-width: 2.6129rem;
+  height: 2.279rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .header-ymj .shopping-cart-KsX {
+  margin: 0rem 3.625rem 0.225rem 0rem;
+  min-width: 2.75rem;
+  height: 2.625rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .header-ymj .user-eQ1 {
+  margin-bottom: 0.1rem;
+  min-width: 2rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .body-N57 {
+  margin-bottom: 9rem;
+  min-width: 106.25rem;
+  flex-shrink: 0;
+}
+.cart-SG1 .body-N57 .group-14-JjT {
+  margin-bottom: 4.4rem;
+  min-width: 88.2368rem;
+  height: 36.4rem;
+  position: relative;
+}
+.cart-SG1 .body-N57 .group-14-JjT .image-16-END {
+  min-width: 46.4264rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cart-SG1 .body-N57 .group-14-JjT .image-17-esB {
+  min-width: 21.5rem;
+  height: 30.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cart-SG1 .body-N57 .group-14-JjT .facial-foam-by-sari-ayu-mN9 {
+  min-width: 45.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 42.3368rem;
+  top: 8.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cart-SG1 .body-N57 .group-14-JjT .rp-20000-rPb {
+  min-width: 19.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 42.3112rem;
+  top: 14.6rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 100;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cart-SG1 .body-N57 .group-14-JjT .group--kjs {
+  box-sizing: border-box;
+  padding: 1.5rem 2.087rem 1.2rem 1.025rem;
+  min-width: 18.9215rem;
+  height: 6rem;
+  position: absolute;
+  left: 42.6997rem;
+  top: 21rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+  border-radius: 2rem;
+}
+.cart-SG1 .body-N57 .group-14-JjT .group--kjs .qty--3U5 {
+  margin-right: 1.2564rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .body-N57 .group-14-JjT .group--kjs .minus-circle-xqw {
+  margin: 0rem 1.762rem 0.3rem 0rem;
+  min-width: 2.3188rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .body-N57 .group-14-JjT .group--kjs .item-1-UpH {
+  margin-right: 1.8542rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .body-N57 .group-14-JjT .group--kjs .plus-circle-p7T {
+  margin-bottom: 0.3rem;
+  min-width: 2.3188rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+z
+.cart-SG1 .body-N57 .auto-group-zc2u-K4D .auto-group-k9yd-C81 .group--yHB .plus-circle-end {
+  margin-bottom: 0.3rem;
+  min-width: 2.3188rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 {
+  box-sizing: border-box;
+  padding: 10.2rem 20rem 14.1rem 17rem;
+  min-width: 100%;
+  height: 49rem;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .auto-group-rh6h-3Jy {
+  margin: 3.7rem 47rem 7.7rem 0rem;
+  min-width: 20rem;
+  height: calc(100% - 11.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .auto-group-rh6h-3Jy .ocos-MaZ {
+  margin-bottom: 2.2rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .auto-group-rh6h-3Jy .auto-group-j2uf-gMw {
+  min-width: 100%;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .auto-group-rh6h-3Jy .auto-group-j2uf-gMw .group-7-dHB {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .auto-group-rh6h-3Jy .auto-group-j2uf-gMw .group-2-aCR {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .auto-group-rh6h-3Jy .auto-group-j2uf-gMw .group-3-XNZ {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .group-4-4tH {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .group-4-4tH .contact-us-RTw {
+  margin-bottom: 5.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .group-4-4tH .ocoscompanyid-xTs {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .group-4-4tH .jl-batu-besar-no-101-blok-c-guf {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-SG1 .footer-7w7 .group-4-4tH .item-62-812-3456-7890-Qqf {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

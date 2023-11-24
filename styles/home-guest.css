@@ -1,0 +1,790 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+  box-sizing: border-box;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  min-width: 144rem;
+}.home-guest-MNh {
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-guest-MNh .header-Wuo {
+  box-sizing: border-box;
+  padding: 2rem 17rem 1.9rem 8rem;
+  min-width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.home-guest-MNh .header-Wuo .ocos-MxM {
+  margin-right: 24.7rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .header-Wuo .beranda-w9s {
+  margin-right: 24.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .header-Wuo .about-us-D7P {
+  margin-right: 32.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .header-Wuo .icon-6BB {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-1-XnH {
+  margin-bottom: 6.8rem;
+  box-sizing: border-box;
+  padding: 21rem 13.4rem 19.4rem 13.4rem;
+  min-width: 100%;
+  height: 50rem;
+  border: solid 0.1rem #000000;
+  background-color: #f6f3f0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-1-XnH .image-1ms {
+  min-width: 144rem;
+  height: 50rem;
+  position: absolute;
+  left: 0rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #f6f3f0;
+}
+.home-guest-MNh .body-1-XnH .image-4-7pu {
+  min-width: 144rem;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-guest-MNh .body-1-XnH .berbagai-alat-cosmetik-untuk-menunjang-penampilan-anda-agar-selalu-tampil-cantik-menarik-dan-menawan-dengan-ocos-PpV {
+  min-width: 85.5rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 29.25rem;
+  top: 11rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Times New Roman, 'Source Sans Pro';
+}
+.home-guest-MNh .body-2-5aq {
+  margin: 0rem 11.2rem 6.7rem 7rem;
+  min-width: calc(100% - 18.2rem);
+  height: 31.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-2-5aq .image-22-jvH {
+  margin-right: 6rem;
+  min-width: 56rem;
+  height: 31.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-2-5aq .auto-group-fhjo-177 {
+  margin: 2.2rem 0rem 3.4rem 0rem;
+  height: calc(100% - 5.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-2-5aq .auto-group-fhjo-177 .apa-si-ocos-itu-UmP {
+  margin-bottom: 4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-2-5aq .auto-group-fhjo-177 .ocos-adalah-sebuah-website-aplikasi-yang-berjalan-di-bidang-cosmetik-website-ini-mempunyai-semua-kebutuhan-terkait-produk-kosmetik-seperti-skincare-lipstik-mack-up-dan-masih-banyak-lagi-xAm {
+  max-width: 63.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky {
+  box-sizing: border-box;
+  padding: 5.5rem 14.9rem 4rem 14.9rem;
+  min-width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #605757;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .benefit-yang-akan-anda-dapatkan-McD {
+  margin-bottom: 2.1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .dari-membeli-produk-dari-website-ini-anda-akan-mendapat-3-benefit-manfaat-utama-yaitu--zv5 {
+  margin-bottom: 3.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Calibri, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 {
+  margin: 0 7.1rem;
+  min-width: calc(100% - 14.2rem);
+  height: 8rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-3-M8M {
+  box-sizing: border-box;
+  padding: 1.5rem 4.65rem 1.6rem 4rem;
+  min-width: 30rem;
+  height: 100%;
+  background-color: #f2f1ef;
+  border-radius: 1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-3-M8M .group-1-FjX {
+  box-sizing: border-box;
+  padding-left: 0.3337rem;
+  min-width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-3-M8M .group-1-FjX .radio-b2h {
+  margin: 0.1rem 2.984rem 0rem 0rem;
+  min-width: 3.3326rem;
+  height: 2.3567rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-3-M8M .group-1-FjX .mitra-terbaik-dan-terpercaya-hLd {
+  max-width: 14.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-4-f4V {
+  box-sizing: border-box;
+  padding: 1.5rem 5.2rem 1.6rem 4rem;
+  min-width: 30rem;
+  height: 100%;
+  background-color: #f2f1ef;
+  border-radius: 1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-4-f4V .group-1-zMf {
+  box-sizing: border-box;
+  padding-left: 0.5rem;
+  min-width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-4-f4V .group-1-zMf .package-Y8H {
+  margin: 0.114rem 2.7rem 0rem 0rem;
+  min-width: 3rem;
+  height: 3.3463rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-4-f4V .group-1-zMf .produk-aman-dan-berkualitas-4cR {
+  max-width: 14.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-5-LK3 {
+  box-sizing: border-box;
+  padding: 2rem 4.1rem 2rem 4rem;
+  min-width: 30rem;
+  height: 100%;
+  background-color: #f2f1ef;
+  border-radius: 1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-5-LK3 .group-1-3jF {
+  min-width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-5-LK3 .group-1-3jF .group-1-oTX {
+  margin-right: 1.2rem;
+  min-width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .body-3-gky .auto-group-pyvd-qA1 .group-5-LK3 .group-1-3jF .harga-terjangkau-LiM {
+  margin-bottom: 0.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf {
+  box-sizing: border-box;
+  padding: 7.2rem 0rem 8.1rem 14.2rem;
+  min-width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK {
+  margin: 0rem 0rem 7.1rem 0.8rem;
+  min-width: calc(100% - 0.8rem);
+  height: 40.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .auto-group-sryh-Ex9 {
+  margin: 9.8rem 8.4rem 18.4rem 0rem;
+  height: calc(100% - 28.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .auto-group-sryh-Ex9 .kategori-produk-MG5 {
+  margin-bottom: 0.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .auto-group-sryh-Ex9 .temukan-macam-macam-kategori-produk-di-ocos-ryX {
+  margin-bottom: 0.5rem;
+  max-width: 55.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .auto-group-sryh-Ex9 .aplikasi-website-ini-menyediakan-banyak-macam-produk-cosmetik-beserta-kegunaannya-masing-masing-9xd {
+  max-width: 31.2rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu {
+  min-width: 65rem;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .rectangle-1-ygm {
+  min-width: 65rem;
+  height: 25rem;
+  position: absolute;
+  left: 0;
+  top: 7rem;
+  background-color: #605757;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-1-Wgh {
+  min-width: 17rem;
+  height: 16rem;
+  position: absolute;
+  left: 9rem;
+  top: 0;
+  background-color: #f2f1ef;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-1-Wgh .rectangle-4-rEm {
+  min-width: 10rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 10.5rem;
+  background-color: #d9d9d9;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-1-Wgh .wajah-agZ {
+  min-width: 3.6rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 10.6rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-1-Wgh .image-6-gzV {
+  min-width: 15rem;
+  height: 9rem;
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-2-apy {
+  box-sizing: border-box;
+  padding: 1rem 1rem 4rem 1rem;
+  min-width: 17rem;
+  height: 16rem;
+  position: absolute;
+  left: 38rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f1ef;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-2-apy .image-7-gt1 {
+  margin-bottom: 0.5rem;
+  min-width: 15rem;
+  height: 9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-2-apy .auto-group-byfw-dHT {
+  margin: 0 2.5rem;
+  min-width: calc(100% - 5rem);
+  height: 1.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-3-rR7 {
+  box-sizing: border-box;
+  padding: 1rem 1rem 4rem 1rem;
+  min-width: 17rem;
+  height: 16rem;
+  position: absolute;
+  left: 9rem;
+  top: 24.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f1ef;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-3-rR7 .image-8-YYq {
+  margin-bottom: 0.5rem;
+  min-width: 15rem;
+  height: 9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .group-3-rR7 .auto-group-6drh-5of {
+  margin: 0 2.5rem;
+  min-width: calc(100% - 5rem);
+  height: 1.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .icon-4-Zyj {
+  min-width: 17rem;
+  height: 16rem;
+  position: absolute;
+  left: 38rem;
+  top: 24.8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f2f1ef;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .rectangle-6-tWD {
+  min-width: 10rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 41.5rem;
+  top: 35.3rem;
+  background-color: #d9d9d9;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .kuku-cx1 {
+  min-width: 2.8rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 45.1rem;
+  top: 35.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-4-8PK .group-4-dcu .image-9-Y4y {
+  min-width: 15rem;
+  height: 9rem;
+  position: absolute;
+  left: 39rem;
+  top: 25.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu {
+  margin-right: 19.6rem;
+  min-width: calc(100% - 19.6rem);
+  height: 48.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD {
+  margin-right: 16.4rem;
+  min-width: 43.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .ellipse-3-gaV {
+  margin: 0rem 15rem 2.4rem 24.5rem;
+  min-width: calc(100% - 39.5rem);
+  height: 4rem;
+  background-color: #605757;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .auto-group-1dbx-bhT {
+  margin-bottom: 1.4rem;
+  min-width: 100%;
+  height: 34.6rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .auto-group-1dbx-bhT .ellipse-6-vzd {
+  margin: 0rem 0.8rem 6.1rem 0rem;
+  min-width: 2rem;
+  height: 2rem;
+  background-color: #605757;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .auto-group-1dbx-bhT .auto-group-fydo-rNV {
+  min-width: 40.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .auto-group-1dbx-bhT .auto-group-fydo-rNV .ellipse-1-oHj {
+  min-width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #605757;
+  border-radius: 15rem;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .auto-group-1dbx-bhT .auto-group-fydo-rNV .ellipse-2-L2m {
+  min-width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 4.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-UKK.png');
+  border-radius: 15rem;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .auto-group-1dbx-bhT .auto-group-fydo-rNV .ellipse-4-2wB {
+  min-width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 7.9rem;
+  background-color: #605757;
+  border-radius: 1.5rem;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .group-6-MYD .ellipse-5-ZRK {
+  margin: 0rem 20.4rem 0rem 17.1rem;
+  min-width: calc(100% - 37.5rem);
+  height: 6rem;
+  background-color: #605757;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB {
+  margin: 9.4rem 0rem 7.9rem 0rem;
+  min-width: 50.3rem;
+  height: calc(100% - 17.3rem);
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .jenis-produk-CjB {
+  margin-bottom: 0.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .terdiri-berbagai-jenis-brand-luar-negeri-dan-lokal-jz1 {
+  margin-bottom: 3.5rem;
+  max-width: 47.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .auto-group-rctk-TQD {
+  margin: 0rem 0rem 4rem 4.3rem;
+  min-width: calc(100% - 4.3rem);
+  display: flex;
+  align-items: center;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .auto-group-rctk-TQD .image-10-Bb7 {
+  margin-right: 16rem;
+  min-width: 15rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .auto-group-rctk-TQD .image-12-ib3 {
+  min-width: 15rem;
+  height: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .auto-group-w8rf-GMf {
+  margin-left: 4.3rem;
+  min-width: calc(100% - 4.3rem);
+  display: flex;
+  align-items: center;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .auto-group-w8rf-GMf .image-14-1a9 {
+  margin-right: 16rem;
+  min-width: 15rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .auto-group-v1hb-CVf .body-5-eNu .auto-group-suj1-UoB .auto-group-w8rf-GMf .image-13-ZLm {
+  min-width: 15rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf {
+  box-sizing: border-box;
+  padding: 10.2rem 20rem 14.1rem 17rem;
+  min-width: 100%;
+  height: 49rem;
+  display: flex;
+  align-items: center;
+  background-color: #605757;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .auto-group-vt2m-nDX {
+  margin: 3.7rem 47rem 7.7rem 0rem;
+  min-width: 20rem;
+  height: calc(100% - 11.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .auto-group-vt2m-nDX .ocos-tXT {
+  margin-bottom: 2.2rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .auto-group-vt2m-nDX .auto-group-ycp9-1c5 {
+  min-width: 100%;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .auto-group-vt2m-nDX .auto-group-ycp9-1c5 .group-7-9iH {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .auto-group-vt2m-nDX .auto-group-ycp9-1c5 .group-2-tfs {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .auto-group-vt2m-nDX .auto-group-ycp9-1c5 .group-3-eQ9 {
+  min-width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .group-4-zD7 {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .group-4-zD7 .contact-us-M3f {
+  margin-bottom: 5.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .group-4-zD7 .ocoscompanyid-HCD {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .group-4-zD7 .jl-batu-besar-no-101-blok-c-D5s {
+  margin-bottom: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-guest-MNh .footer-rqf .group-4-zD7 .item-62-812-3456-7890-XMT {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
